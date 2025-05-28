@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucaspss5
 - 👀 Studying technology
-  
+- I like technology that is focused and dedicated.
 
 <!---
 Lucaspss5/Lucaspss5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
