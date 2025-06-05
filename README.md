@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lucaspss5
 - 👀 Studying technology
-- Studying technology.  
-I like focused and dedicated technology.
+- I like the technology area, focus and dedication
 
 
 <!---
