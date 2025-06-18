@@ -18,9 +18,8 @@
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucaspss5&show_icons=true&theme=tokyonight)
 
 ### 📫 Contato
-- ✉️ lucasmoura@email.com *(substitua pelo seu)*
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil) *(adicione se tiver)*
-
+- ✉️ lucas.santos8u@email.com 
+- [LinkedIn](https://www.linkedin.com/in/lucas-moura-santos-b43654134?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 <!---
 Lucaspss5/Lucaspss5 is a ✨ special ✨ repository becaus its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
