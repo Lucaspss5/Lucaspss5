@@ -1,14 +1,16 @@
 ## 👋 Olá! Eu sou o Lucas Moura Santos
 
-🎓 Estudante de Banco de Dados no Centro Universitário UNIFECAF  
-💡 Apaixonado por tecnologia, sistemas e modelagem de dados  
-🚀 Em constante evolução, buscando soluções inteligentes e eficientes  
+🎓 Estudante de Gestão da Tecnologia da Informação no Centro Universitário UNIFECAF
+💡 Apaixonado por soluções tecnológicas, sistemas de informação e modelagem de dados
+🚀 Em constante aprendizado, sempre buscando unir eficiência técnica e visão estratégica
+
 
 ### 🧠 Habilidades
-- SQL (modelagem, consultas, procedures)
-- Modelagem de Banco de Dados Relacional
-- Python (básico)
-- Git & GitHub
+• SQL (modelagem, consultas, procedures)
+• Modelagem de Banco de Dados Relacional
+• Python
+• Git & GitHub
+• Métodos Ágeis (Scrum, Kanban) aplicados em projetos acadêmicos e colaborativos
 
 ### 📂 Projetos em destaque
 - [📘 Sistema Acadêmico - Modelagem SQL](https://github.com/Lucaspss5/Faculdade.git): Projeto completo de banco de dados para uma instituição de ensino
