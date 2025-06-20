@@ -6,11 +6,11 @@
 
 
 ### 🧠 Habilidades
-•SQL (modelagem, consultas, procedures)
-•Modelagem de Banco de Dados Relacional
-•Python
+• SQL (modelagem, consultas, procedures)
+• Modelagem de Banco de Dados Relacional
+• Python
 • Métodos Ágeis (Scrum, Kanban) aplicados em projetos acadêmicos e colaborativos
-•Git & GitHub
+• Git & GitHub
 
 ### 📂 Projetos em destaque
 - [📘 Sistema Acadêmico - Modelagem SQL](https://github.com/Lucaspss5/Faculdade.git): Projeto completo de banco de dados para uma instituição de ensino
