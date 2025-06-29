@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Lucas Moura Santos
 
-🎓 Estudante de Gestão da Tecnologia da Informação no Centro Universitário UNIFECAF
+🎓 Estudante de Gestão da Tecnologia da Informação
 💡 Apaixonado por soluções tecnológicas, sistemas de informação e modelagem de dados
 🚀 Em constante aprendizado, sempre buscando unir eficiência técnica e visão estratégica
 
@@ -11,10 +11,6 @@
 • Python
 • Métodos Ágeis (Scrum, Kanban) aplicados em projetos acadêmicos e colaborativos
 • Git & GitHub
-
-### 📂 Projetos em destaque
-- [📘 Sistema Acadêmico - Modelagem SQL](https://github.com/Lucaspss5/Faculdade.git): Projeto completo de banco de dados para uma instituição de ensino
-- Outros projetos em breve!
 
 ### 📊 Estatísticas
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucaspss5&show_icons=true&theme=tokyonight)
